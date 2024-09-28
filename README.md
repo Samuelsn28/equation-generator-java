@@ -4,7 +4,7 @@ This is a program in Java that generates equations in the format <code>a<sub>n</
   
 ## ⚙️ Used Technologies
 
-<img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="Java" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 ## 📋 How to use 
 
