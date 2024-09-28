@@ -7,3 +7,31 @@ This is a program in Java that generates equations in the format <code>a<sub>n</
 <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 ## 📋 How to use 
+
+<p>
+In a file, import <code>EquationGenerator</code> class of the <code>generator</code> package and create an its object. 
+</p>
+
+<p>
+  Use the <code>generateEquation</code> method and pass to it the parameters:
+  <ol>
+    <li>
+      <strong>degree:</strong> The desired degree of the equation.</li>
+    <li>
+      <strong>variableSign:</strong> The desired sign of the unknowns of the equation.
+    </li>
+    <li>
+      <strong>minValueRoot:</strong> minimum value that a root of the equation can assume.
+    </li>
+    <li>
+      <strong>maxValueRoot:</strong> max value that a root of the equation can assume.
+    </li>
+    <li>
+      <strong>repeatedRoots:</strong> if a equation can have repeated roots.
+    </li>
+  </ol>
+</p>
+
+<p>
+  The return of this method will be an object of the <code>Equation</code> class.
+</p>
