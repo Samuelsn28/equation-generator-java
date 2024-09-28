@@ -16,18 +16,18 @@ In a file, import <code>EquationGenerator</code> class of the <code>generator</c
   Use the <code>generateEquation</code> method and pass to it the parameters:
   <ol>
     <li>
-      <strong>degree:</strong> The desired degree of the equation.</li>
+      <code>degree:</code> The desired degree of the equation.</li>
     <li>
-      <strong>variableSign:</strong> The desired sign of the unknowns of the equation.
+      <code>variableSign:</code> The desired sign of the unknowns of the equation.
     </li>
     <li>
-      <strong>minValueRoot:</strong> minimum value that a root of the equation can assume.
+      <code>minValueRoot:</code> minimum value that a root of the equation can assume.
     </li>
     <li>
-      <strong>maxValueRoot:</strong> max value that a root of the equation can assume.
+      <code>maxValueRoot:</code> max value that a root of the equation can assume.
     </li>
     <li>
-      <strong>repeatedRoots:</strong> if a equation can have repeated roots.
+      <code>repeatedRoots:</code> if a equation can have repeated roots.
     </li>
   </ol>
 </p>
