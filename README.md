@@ -23,10 +23,10 @@ In a file, import <code>EquationGenerator</code> class of the <code>main.generat
       <code>variableSign:</code> The desired sign of the unknowns of the equation.
     </li>
     <li>
-      <code>minValueRoot:</code> minimum value that a root of the equation can assume.
+      <code>rootInterval:</code> <code>RootInterval</code> type object that receives the minimum and maximum that root's value can assume.
     </li>
     <li>
-      <code>maxValueRoot:</code> max value that a root of the equation can assume.
+      <code>coefficientAInterval:</code> <code>CoefficientAInterval</code> type object that receives the minimum and maximum that value of coefficient A can assume. 
     </li>
     <li>
       <code>repeatedRoots:</code> if a equation can have repeated roots.
